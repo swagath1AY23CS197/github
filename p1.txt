@@ -1,5 +1,8 @@
 happy new year
 2025-26
 1/1/2025
+<<<<<<< HEAD
 global information tracker
+=======
+>>>>>>> 997d7b9 (added)
 
